@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"part_c","c":"LoopSumCal","l":"calculateSum(int)"},{"p":"part_c","c":"LoopSumCal","l":"LoopSumCal()","u":"%3Cinit%3E()"}];updateSearchResults();
