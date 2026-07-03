@@ -1,0 +1,16 @@
+[2026-07-03T14:09:36.209101400] START: Drone navigation controller is now running.
+[2026-07-03T14:09:36.235398] SENSOR FAILURE: Sensor B link lost.
+[2026-07-03T14:09:36.246907400] MAJORITY DECISION: Agreement between A and C. Selected Altitude: 120m
+[2026-07-03T14:09:36.247906700] OUTLIER DETECTION: Sensor B variance detected.
+[2026-07-03T14:09:36.249906400] MAJORITY DECISION: Agreement between A and B. Selected Altitude: 119m
+[2026-07-03T14:09:36.250906100] OUTLIER DETECTION: Sensor C variance detected.
+[2026-07-03T14:09:36.250906100] SENSOR FAILURE: Sensor B link lost.
+[2026-07-03T14:09:36.251905700] RELIABILITY FAILURE: No majority agreement found among different sensor readings.
+[2026-07-03T14:09:36.253415700] FALLBACK DECISION: Maintaining previous valid altitude: 119m
+[2026-07-03T14:09:36.255430] SENSOR FAILURE: Sensor C link lost.
+[2026-07-03T14:09:36.255430] SENSOR FAILURE: Sensor B link lost.
+[2026-07-03T14:09:36.256429] SENSOR FAILURE: Sensor A link lost.
+[2026-07-03T14:09:36.257427800] RELIABILITY FAILURE: Insufficient valid sensors available to vote.
+[2026-07-03T14:09:36.258582800] FALLBACK DECISION: Maintaining previous valid altitude: 119m
+[2026-07-03T14:09:36.259599500] CRITICAL ERROR: Maximum reliability failure threshold reached.
+[2026-07-03T14:09:36.259599500] SAFE MODE ACTIVATED: Stopping execution safety routines.
